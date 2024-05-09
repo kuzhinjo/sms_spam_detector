@@ -11,7 +11,7 @@ To predict the spam/ham classification of a given text message using a pre-train
 ## Create the Gradio Interface Application
 To Launch the application please run the program and paste the dynamic URL in the browser
 
-## Tested the following text messages. 
+## Tested with the following text messages. 
 Running on public URL: https://a4ecacf398c6d7c456.gradio.live: 
 
 1. You are a lucky winner of $5000!
