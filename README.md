@@ -8,7 +8,7 @@ To perform SMS classification using a pipeline with TF-IDF vectorization and Lin
 ## Created the SMS Prediction Function
 To predict the spam/ham classification of a given text message using a pre-trained model.
 
-## Create the Gradio Interface Application
+## Created the Gradio Interface Application
 To Launch the application please run the program and paste the dynamic URL in the browser
 
 ## Tested with the following text messages. 
